@@ -62,6 +62,10 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
+
+            .test {
+                color: blue;
+            }
         </style>
     </head>
     <body>
@@ -80,6 +84,10 @@
             <div class="content">
                 <div class="title m-b-md">
                     Laravel
+                </div>
+
+                <div class="test">
+                    <p>This is a change!</p>
                 </div>
 
                 <div class="links">
