@@ -88,6 +88,7 @@
 
                 <div class="test">
                     <p>This is a change!</p>
+                    <p>This is another change!</p>
                 </div>
 
                 <div class="links">
